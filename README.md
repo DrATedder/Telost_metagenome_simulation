@@ -36,6 +36,7 @@ infected samples: ~55% of remaining reads (reduced due to dysbiosis)
   - higher diversity in 'control' samples than 'infected' samples.
 
  ### Prerequisites (likely not exhaustive)
+ ***
 
  ```python
 random
@@ -46,4 +47,31 @@ subprocess
 Bio
 
 ```
+
+### Necessary genomes (fish & A. salmonicida)
+***
+
+**Salmo salar**(Atlantic salmon)
+
+Genome assembly Ssal_v3.1
+
+NCBI RefSeq assembly [GCF_905237065](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_905237065.1/)
+
+**Oncorhynchus mykiss** (Rainbow trout)
+
+Genome asembly USDA_OmykA_1.1
+
+NCBI RefSeq assembly [GCF_013265735](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_013265735.2/)
+
+**Perca fluviatilis** (European perch)
+
+Genome assembly GENO_Pfluv_1.0
+
+NCBI RefSeq assembly [GCF_010015445](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_010015445.1/)
+
+**Aeromonas salmonicida**
+
+Genome assembly ASM2835565v1
+
+NCBI RefSeq assembly [GCF_028355655.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_028355655.1/)
 
